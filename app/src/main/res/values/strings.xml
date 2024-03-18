@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dummy_activity</string>
+    <string name="WELCOME">WELCOME</string>
+    <string name="Please_login_with_your_information">Please Login With Your Information</string>
+    <string name="Email_Address">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="Remember_Me">Remember Me</string>
+    <string name="I_forgot_my_password">I forgot my password</string>
+    <string name="or">Or</string>
+    <string name="Skip">Skip</string>
+</resources>
